@@ -1,0 +1,16 @@
+C:\Users\Wellington Nogueira\Documents\GitHub\DIO.Series\obj\Debug\net5.0\DIO.Series.csprojAssemblyReference.cache
+C:\Users\Wellington Nogueira\Documents\GitHub\DIO.Series\obj\Debug\net5.0\DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wellington Nogueira\Documents\GitHub\DIO.Series\obj\Debug\net5.0\DIO.Series.AssemblyInfoInputs.cache
+C:\Users\Wellington Nogueira\Documents\GitHub\DIO.Series\obj\Debug\net5.0\DIO.Series.AssemblyInfo.cs
+C:\Users\Wellington Nogueira\Documents\GitHub\DIO.Series\obj\Debug\net5.0\DIO.Series.csproj.CoreCompileInputs.cache
+C:\Users\Wellington Nogueira\Documents\GitHub\DIO.Series\bin\Debug\net5.0\DIO.Series.exe
+C:\Users\Wellington Nogueira\Documents\GitHub\DIO.Series\bin\Debug\net5.0\DIO.Series.deps.json
+C:\Users\Wellington Nogueira\Documents\GitHub\DIO.Series\bin\Debug\net5.0\DIO.Series.runtimeconfig.json
+C:\Users\Wellington Nogueira\Documents\GitHub\DIO.Series\bin\Debug\net5.0\DIO.Series.runtimeconfig.dev.json
+C:\Users\Wellington Nogueira\Documents\GitHub\DIO.Series\bin\Debug\net5.0\DIO.Series.dll
+C:\Users\Wellington Nogueira\Documents\GitHub\DIO.Series\bin\Debug\net5.0\ref\DIO.Series.dll
+C:\Users\Wellington Nogueira\Documents\GitHub\DIO.Series\bin\Debug\net5.0\DIO.Series.pdb
+C:\Users\Wellington Nogueira\Documents\GitHub\DIO.Series\obj\Debug\net5.0\DIO.Series.dll
+C:\Users\Wellington Nogueira\Documents\GitHub\DIO.Series\obj\Debug\net5.0\ref\DIO.Series.dll
+C:\Users\Wellington Nogueira\Documents\GitHub\DIO.Series\obj\Debug\net5.0\DIO.Series.pdb
+C:\Users\Wellington Nogueira\Documents\GitHub\DIO.Series\obj\Debug\net5.0\DIO.Series.genruntimeconfig.cache
